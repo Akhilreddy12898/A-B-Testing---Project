@@ -7,8 +7,8 @@ Let’s imagine you work on the product team at a medium-sized online e-commerce
 Implemented an A/B testing initiative to evaluate the impact of a redesigned product page on the conversion rate for a medium-sized online e-commerce business. With an aim to increase the average conversion rate from 13% to at least 15%, the test involved a controlled experiment on a subset of users, providing a data-driven assessment of the new design's efficacy prior to a full-scale implementation.
 
 ## Steps
-Designing our experiment
-Collecting and preparing the data
-Visualising the results
-Testing the hypothesis
-Drawing conclusions
+# Designing our experiment
+# Collecting and preparing the data
+# Visualising the results
+# Testing the hypothesis
+# Drawing conclusions
